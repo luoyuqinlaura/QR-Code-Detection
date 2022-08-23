@@ -19,9 +19,10 @@ Original OpenCV QR Code Scanner is not accurate enough, especially in far or dar
 <img src="dark.png" width = "500">
 
 * In occluded QR Code situation:
-<img src="occluded.png" width = "300">
+<img src="occluded.png" width = "500">
  
-
+* Comparison conclusion between My Method, OpenCV and WeChat:
+<img src="conclusion.png" width = "500">
 
 ## Demo Check
 
